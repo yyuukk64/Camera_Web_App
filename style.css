@@ -41,7 +41,15 @@ Style the element with id="take-photo-button"
 #front-camera-button{
     position: fixed;
     bottom: 80px;
-    width: 100%;
+    width: 300px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid red;
+    padding: 15px 20px;
+    text-align: center;
+    left: calc(50% - 150px);
 }
 
 /*
